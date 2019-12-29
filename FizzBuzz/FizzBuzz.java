@@ -12,7 +12,6 @@ public class FizzBuzz {
                result = String.valueOf(i);
            }
            System.out.println(result);
-       }
-       
+       }       
    } 
 }
